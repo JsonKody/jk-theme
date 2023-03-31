@@ -1,0 +1,32 @@
+{
+   "name": "jk",
+   "displayName": "jk",
+   "description": "jk theme by JsonKody",
+   "version": "0.0.1",
+   "publisher": "JsonKody",
+   "engines": {
+      "vscode": "^1.77.0"
+   },
+   "categories": [
+      "Themes"
+   ],
+   "keywords": [
+      "jk",
+      "theme",
+      "dark",
+      "color"
+   ],
+   "repository": {
+    "type": "git",
+    "url": ''
+   },
+   "contributes": {
+      "themes": [
+         {
+            "label": "jk",
+            "uiTheme": "vs-dark",
+            "path": "./themes/jk-color-theme.json"
+         }
+      ]
+   }
+}
